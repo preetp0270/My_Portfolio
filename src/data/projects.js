@@ -20,7 +20,7 @@ const projects = [
     description:
       "A modern, responsive portfolio built with React and Vite. Features smooth animations, dark theme, and an easy-to-extend projects data file so I can keep adding work without touching the UI code.",
     tags: ["React", "Vite", "CSS", "GitHub Pages"],
-    github: "https://github.com/Preetp2708",
+    github: "https://github.com/preetp0270",
     live: "",
     image: "",
     featured: true,
@@ -31,7 +31,7 @@ const projects = [
     description:
       "Collection of Android apps built while learning mobile development — focusing on Java/Kotlin fundamentals, layouts, activities, and basic UI patterns.",
     tags: ["Android", "Java", "XML"],
-    github: "https://github.com/Preetp2708",
+    github: "https://github.com/preetp0270",
     live: "",
     image: "",
     featured: true,
@@ -42,7 +42,7 @@ const projects = [
     description:
       "Consistent practice of Data Structures and Algorithms. Solving problems on LeetCode to strengthen problem-solving skills for interviews and real-world coding.",
     tags: ["DSA", "Java", "C++", "Python", "LeetCode"],
-    github: "https://github.com/Preetp2708",
+    github: "https://github.com/preetp0270",
     live: "https://leetcode.com/u/5I2Cv1v88w/",
     image: "",
     featured: false,
@@ -53,7 +53,7 @@ const projects = [
     description:
       "Hands-on HTML, CSS & JavaScript projects including interactive forms, responsive layouts, and small utility tools built during college coursework.",
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/Preetp2708",
+    github: "https://github.com/preetp0270",
     live: "",
     image: "",
     featured: false,

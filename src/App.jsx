@@ -298,7 +298,7 @@ function Contact() {
             <div className="social-links">
               <a
                 className="social-btn"
-                href="https://github.com/Preetp2708"
+                href="https://github.com/preetp0270"
                 target="_blank"
                 rel="noopener noreferrer"
               >
